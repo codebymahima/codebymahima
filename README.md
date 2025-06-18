@@ -4,7 +4,7 @@
 💻 Passionate about Web Development and DSA  
 🌱 Currently learning HTML, CSS, JavaScript
 🔭 Exploring open-source and working on beginner-friendly projects  
-📫 Reach me: [LinkedIn](www.linkedin.com/in/mahima-lalwani) | codebymahima@gmail.com
+📫 Reach me: [LinkedIn](www.linkedin.com/in/mahima-lalwani/) | codebymahima@gmail.com
 
 ---
 
