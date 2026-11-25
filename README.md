@@ -1,37 +1,33 @@
 # 👋 Hi, I'm Mahima Lalwani
 
-🎓 **B.Tech Computer Science Student at Jawaharlal Nehru University, New Delhi | Expected 2028**
+🎓 **B.Tech Computer Science Engineering | Jawaharlal Nehru University, New Delhi | 2024–2028**
 
-💻 **Full Stack Developer focused on MERN Stack and SQL-based applications**
+💻 **Full-Stack Developer | React.js | Node.js | Express.js | MongoDB | SQL**
 
-I enjoy building practical web applications that solve real-world problems, with a focus on **frontend development, backend systems, REST APIs, and database-driven applications**.
+I'm a Computer Science Engineering student passionate about building scalable, practical software applications. I enjoy working across the full development lifecycle — from designing responsive interfaces and developing REST APIs to architecting databases and implementing backend business logic.
 
-Currently working with:
+I have hands-on experience developing full-stack applications, working with real-world business requirements, and building collaborative software solutions.
 
-- ⚛️ React.js & JavaScript
-- 🟢 Node.js & Express.js
-- 🍃 MongoDB
-- 🐬 MySQL & SQL
-- 🎨 HTML, CSS & Tailwind CSS
-- 🔧 Git & GitHub
-
-I also have experience building AI-integrated applications and am continuously strengthening my **DSA and software engineering fundamentals**.
+- 🔭 Building **SprintSync**, a multi-tenant Agile project management platform.
+- 💼 Freelance Full-Stack Developer at **Kiara Medicals**.
+- 👩‍💻 **Lead at Google Developer Groups on Campus (GDGC), JNU**.
+- 🎯 Outreach Head at the Placement Cell, School of Engineering, JNU.
+- 🧠 Practicing Data Structures & Algorithms using Java.
+- 🌱 Exploring backend architecture, AI integration, and scalable web applications.
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
-
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" />
 </p>
 
-### Frontend
-
+### Frontend Development
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" />
@@ -40,7 +36,6 @@ I also have experience building AI-integrated applications and am continuously s
 </p>
 
 ### Backend & Databases
-
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" />
@@ -50,7 +45,6 @@ I also have experience building AI-integrated applications and am continuously s
 </p>
 
 ### Tools & Platforms
-
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" />
@@ -61,77 +55,100 @@ I also have experience building AI-integrated applications and am continuously s
 
 ---
 
-## 💼 Featured Projects
+## 🚀 Featured Projects
+
+### 🔄 SprintSync — Multi-Tenant Agile Project Management Platform
+
+**React.js · Node.js · Express.js · MongoDB · Mongoose · JWT**
+
+A collaborative Agile project management platform designed to support multiple organizations, independent teams, and structured Scrum workflows.
+
+- Architecting a multi-tenant Workspace–Project hierarchy supporting multiple organizations and independent project memberships.
+- Designing role-based access control (RBAC) with workspace-level and project-level permissions.
+- Engineering workspace onboarding through invitation-based access, unique join codes, employee ID validation, and admin-approved membership requests.
+- Developing RESTful APIs and MongoDB data models for workspaces, project memberships, product backlogs, sprint planning, and task tracking.
+- Implementing Scrum workflows including sprint lifecycle management, task assignments, progress tracking, daily standups, and activity logging.
 
 ### 🏥 Kiara Medicals — Multi-Store Pharmacy Management System
 
 **React.js · Node.js · Express.js · MySQL**
 
-A full-stack pharmacy management system being developed for a 3-branch medical business.
+A full-stack pharmacy management application being developed for a medical business operating across three branches.
 
-- Developing modules for billing, inventory, purchases, sales, returns, and patient records
-- Designing relational database structures for pharmacy operations
-- Building REST APIs and integrating backend services with the React frontend
-- Implementing medicine search, low-stock monitoring, and automated expiry alerts
-- Working on branch-level reporting and centralized business analytics
-
----
+- Developing a centralized platform for billing, inventory, purchases, sales, returns, and patient records.
+- Building REST APIs and database structures to support multi-branch pharmacy operations.
+- Implementing medicine search, stock monitoring, and automated expiry alerts.
+- Designing branch-level reporting and centralized business analytics.
+- Engineering a cost-efficient alternative to existing pharmacy management software, targeting approximately **36% lower annual operating costs**.
 
 ### 🤖 AI Freelancer Finance Assistant
 
-**React · JavaScript · Tailwind CSS · Supabase · Gemini API**
+**React.js · JavaScript · Tailwind CSS · Supabase · Gemini API · OpenRouter**
 
-An AI-powered finance management application designed for freelancers.
+An AI-powered financial assistant designed to help freelancers manage invoices, evaluate project pricing, and make informed financial decisions.
 
-- Built invoice creation and management workflows
-- Implemented user-specific invoice storage and invoice history
-- Integrated Gemini API for AI-powered financial assistance
-- Added earnings estimation and payment fee comparison features
-- Built a responsive dashboard and deployed the application using Vercel
-
----
-
-### 📋 ScopeWise — Project Scope Analysis & Proposal Generator
-
-**React · JavaScript · Tailwind CSS**
-
-A web application designed to help freelancers and developers analyze project requirements and generate structured proposals.
-
-- Implemented project complexity and risk analysis
-- Added pricing and timeline estimation
-- Generated structured deliverables and project scope information
-- Built proposal and client communication workflows
-- Designed a responsive user interface for practical project planning
-
----
+- Developed an AI-powered assistant providing guidance on project pricing, invoice management, payment follow-ups, and financial planning.
+- Integrated Google Gemini API and OpenRouter with automated fallback handling for AI-generated recommendations.
+- Built a responsive React interface with Supabase integration.
+- Implemented user authentication and seamless interaction with AI-powered financial assistance.
 
 ### 🌐 Personal Portfolio
 
-**React · JavaScript · CSS · Vercel**
+**React.js · JavaScript · CSS · Vercel**
 
-A responsive portfolio website showcasing my projects, technical skills, and development journey.
+A personal portfolio showcasing my technical skills, projects, and development journey.
 
-- Built reusable React components
-- Implemented responsive layouts for different screen sizes
-- Focused on clean UI and project presentation
-- Deployed using Vercel
+- Built reusable React components.
+- Developed responsive layouts for different screen sizes.
+- Focused on clean UI and intuitive project presentation.
+- Deployed using Vercel.
 
 ---
 
-## 🧠 Problem Solving
+## 💼 Experience
 
-- 💡 **100+ DSA problems solved on LeetCode**
-- ☕ Primarily practicing DSA using **Java**
-- 📚 Continuously strengthening problem-solving and software engineering fundamentals
+**Freelance Full-Stack Developer — Kiara Medicals**  
+*August 2026 – Present*
+
+Developing a multi-branch pharmacy management system with a focus on backend architecture, database management, inventory workflows, and business automation.
+
+**Web Development Intern — InAmigos Foundation**  
+*May 2026 – June 2026*
+
+- Conducted website audits focusing on navigation, content hierarchy, user flow, and UI/UX improvements.
+- Designed and updated responsive web pages using Wix.
+- Improved website structure and usability based on audit findings.
+
+---
+
+## 🧠 Problem Solving & Core Fundamentals
+
+- 💡 Solved **100+ Data Structures & Algorithms problems on LeetCode**.
+- ☕ Primarily practice DSA using **Java**.
+- 📚 Strong foundation in OOP, DBMS, Computer Networks, and Operating Systems.
+- 🔍 Interested in backend engineering, database design, and software architecture.
 
 ---
 
 ## 🏆 Achievements
 
-- 🥈 **2nd Prize — EngQuest, JNU**
-- 🥉 **Top 3 — Web Development Summer Bootcamp, COLD**
-- 🥉 **Top 3 — Competitive Programming Bootcamp, COLD**
-- ⭐ **Top 5 — GDGC Sky Architect Program**
+- 🥈 **2nd Position — FlagWars, EngQuest, School of Engineering, JNU** (Debugging & Web Development Competition).
+- 🥉 **Top 3 Performer — Competitive Programming Bootcamp, COLD, JNU**.
+
+---
+
+## 👩‍💻 Leadership & Positions of Responsibility
+
+- **Lead — Google Developer Groups on Campus (GDGC), JNU** | October 2026 – Present
+- **Outreach Head — Placement Cell, School of Engineering, JNU** | March 2026 – Present
+- **Class Representative — School of Engineering, JNU** | 2024 – Present
+
+---
+
+## 📜 Certifications
+
+- **Generative AI for Everyone** — DeepLearning.AI, Coursera (2026).
+- **Aspire Leaders Program** — Aspire Institute (2025).
 
 ---
 
@@ -141,22 +158,17 @@ A responsive portfolio website showcasing my projects, technical skills, and dev
 <a href="https://www.linkedin.com/in/mahima-lalwani/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:codebymahima@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://leetcode.com/u/codebymahima/" target="_blank">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+<a href="https://github.com/codebymahima" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
 ---
 
-## 🌱 Currently
-
-- Building full-stack applications with **React, Node.js, Express.js and SQL**
-- Strengthening **MERN Stack** development
-- Practicing **DSA in Java**
-- Learning through real-world software projects
-- Exploring practical applications of **AI in web development**
+⭐ *Building solutions. Leading communities. Learning continuously.*
